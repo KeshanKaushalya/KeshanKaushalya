@@ -69,11 +69,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshankaushalya&theme=tokyonight" alt="keshankaushalya" />
+  <img src="https://streak-stats.demolab.com/?user=keshankaushalya&theme=tokyonight" alt="keshankaushalya" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshankaushalya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keshankaushalya&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ## 📈 Contribution Graph
