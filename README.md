@@ -69,11 +69,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshankaushalya&" alt="keshankaushalya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshankaushalya&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" alt="keshankaushalya" />
 </div>
 
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshankaushalya" alt="keshankaushalya" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshankaushalya&theme=github_dark" />
 </div>
 
 ## 📈 Contribution Graph
