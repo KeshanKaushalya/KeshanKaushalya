@@ -65,12 +65,21 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshankaushalya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshankaushalya&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+## 💻 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshankaushalya&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" alt="keshankaushalya" />
+
+| Language | Usage | Projects |
+|----------|-------|----------|
+| 🟨 **JavaScript** | ████████████████████ 50% | StudyMate_LMS, Blink-Chat |
+| 🟦 **Python** | ██████████ 25% | Smart Home Controller |
+| 🟧 **Other** | ██████████ 25% | HTML, CSS, TypeScript |
+
 </div>
+
+
 
 ## 🏆 GitHub Achievements
 
