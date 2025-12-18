@@ -68,14 +68,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshankaushalya&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🔥 GitHub Streak & Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshankaushalya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=keshankaushalya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshankaushalya&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590" alt="keshankaushalya" />
 </div>
 
 ## 🏆 GitHub Achievements
