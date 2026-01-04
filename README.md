@@ -36,17 +36,17 @@
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,django,laravel,spring" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,appwrite" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,postman,docker" />
 </p>
 
 ### 🎨 Design Tools
@@ -73,9 +73,11 @@
 
 | Language | Usage | Projects |
 |----------|-------|----------|
-| 🟨 **JavaScript** | ████████████████████ 50% | StudyMate_LMS, Blink-Chat |
-| 🟦 **Python** | ██████████ 25% | Smart Home Controller |
-| 🟧 **Other** | ██████████ 25% | HTML, CSS, TypeScript |
+| 🟨 **JavaScript** | ██████████████ 35% | StudyMate_LMS, Blink-Chat |
+| 🟦 **TypeScript** | ████████ 20% | Wealthix-Bank-App |
+| 🟦 **Python** | ██████ 15% | Smart Home Controller |
+| 🟧 **Java** | ██████ 15% | Patient_Management_System |
+| 🟩​ **Other** | ██████ 15% | HTML, CSS |
 
 </div>
 
