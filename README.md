@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Cloud Technologies & DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Python, Java**
-- 📫 How to reach me: **keshankaushalya@gmail.com**
+- 📫 How to reach me: **madusankakeshan782@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code! ☕**
 - 🎯 2024 Goals: **Contribute to more open source projects**
 
